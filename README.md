@@ -2,7 +2,7 @@
 
 A free video editor that runs entirely in your browser. Your videos, photos and music never leave your device — nothing is uploaded.
 
-**Open it:** https://YOUR-USERNAME.github.io/clipforge/
+**Open it:** https://abirpal202049.github.io/clipforge/
 
 ## Features
 - **Timeline:** multiple video, overlay, caption and audio tracks · trim · split · duplicate · delete · freeze frame · undo/redo · snapping
